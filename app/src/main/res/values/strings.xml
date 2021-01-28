@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TP1Android</string>
+
+    <!-- Activity Main -->
+    <string name="main_part_1_title">Partie 1:</string>
+    <string name="main_part_1_button">Bouton n°1</string>
+    <string name="main_part_1_clic_format">Clic n°%d</string>
+    <string name="main_part_2_title">Partie 2:</string>
+    <string name="main_part_2_button">Bouton n°2</string>
+    <string name="main_part_2_hint">Quelque chose…</string>
+    <string name="main_go_to_bonus">Aller à l\'activité BONUS</string>
+
+    <!-- Activity Bonus -->
+    <string name="bonus_description">Ceci est une activité BONUS</string>
+</resources>
