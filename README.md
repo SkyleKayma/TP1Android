@@ -34,5 +34,5 @@ Si après-coup le chemin du SDK n’est toujours pas réglé sur */opt/android-s
 **Bonus**
 
 1. Ajouter une seconde Activity qui sera poussée par un second bouton
-2. Faire en sorte que le texte des boutons soit stockés en ressource dans un fichier **strings.txt**
+2. Faire en sorte que le texte des boutons soit stockés en ressource dans un fichier **strings.xml**
 3. Stylisez vos composants !
