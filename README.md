@@ -8,20 +8,6 @@ Se connecter sur une machine de la salle A23 et à taper la commande suivante:
 Démarrer android studio avec la commande: 
 -> *android-studio*
 
-## Si une configuration Android Studio est nécessaire
-
-Si vous avez le choix entre **Standard** et **Custom**:  
--> Choisir **Custom**
-
-Vérifier que le chemin **JRE/JDK** soit:  
--> */opt/android-studio/android-studio/jre*
-
-Vérifier que le **Android SDK Location** soit:  
--> */opt/android-sdk/android-sdk*
-
-Terminer la configuration.  
-Si après-coup le chemin du SDK n’est toujours pas réglé sur */opt/android-sdk/android-sdk*, faites-le moi savoir.
-
 # Objectifs
 
 1. Créer un projet en choisissant **No Activity** comme configuration de départ
